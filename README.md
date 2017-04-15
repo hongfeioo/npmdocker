@@ -24,7 +24,9 @@ gpgcheck=1
 gpgkey=https://yum.dockerproject.org/gpg
 EOF
 
-yum install -y docker-engine-1.12.1
+yum install -y docker 
+
+systemctl start docker; systemctl enable docker
 
 ```
 
