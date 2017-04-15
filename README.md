@@ -99,6 +99,13 @@ Up,Down 报警状态机
 3   如果修改了pingModule中的文件，需要删除*.pyc  </p>
 
 
+docker的一些命令
+---------
+1. docker save -o python27.tar 68caceba17ab   导出一个docker镜像   
+2. docker load <  python27.tar      导入镜像
+3. docker tag 68caceba17ab  python:2.7  重命名镜像
+
+
 作者介绍
 ----------
 yihongfei  QQ:413999317   MAIL:yihf@liepin.com
