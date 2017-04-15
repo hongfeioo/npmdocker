@@ -31,7 +31,7 @@ yum install -y docker-engine-1.12.1
 启动方法
 ----------------
 ```bash
-cd /root
+cd /home
 git clone  https://github.com/hongfeioo/npmdocker.git
 ./buid.sh
 ```
