@@ -110,7 +110,7 @@ docker的一些命令
 
 作者介绍
 ----------
-yihongfei  QQ:413999317   MAIL:yihf@liepin.com
+yihongfei  QQ:413999317   MAIL:yihongfei@xiaomi.com
 
 CCIE 38649
 
