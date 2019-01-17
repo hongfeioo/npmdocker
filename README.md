@@ -46,8 +46,8 @@ vi  NodePingManage/npm.ini
 -----------------------
 | 设备IP | 设备描述|初始状态关键字|邮箱|手机号|
 |-----|------|----|----|----|
-|114.114.114.114|CoreSwExample|Init|yihf@liepin.com|13521161889
-|192.168.1.1|Server1|Init|yihf@liepin.com|13521161889
+|114.114.114.114|CoreSwExample|Init|yihf@liep.com|1352116188x
+|192.168.1.1|Server1|Init|yihf@liep.com|1352116188x
 
 
 监测频率设置
